@@ -4,7 +4,7 @@
       "loremWords": { "minLength": 5, "maxLength": 10 }
     },
     "cost": { 
-      "int": { "min": 0, "max": 1000000 } 
+      "int": { "min": 0, "max": 500 } 
     },
     "isPaid": {
       "boolean": {}
