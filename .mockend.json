@@ -1,7 +1,7 @@
 {
   "Expense": {
     "name": {
-      "loremWords": { "minLength": 1, "maxLength": 5 }
+      "loremWords": { "minLength": 5, "maxLength": 10 }
     },
     "cost": { 
       "int": { "min": 0, "max": 1000000 } 
